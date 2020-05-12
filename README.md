@@ -2,7 +2,7 @@
 Capstone Project: Predicting Poverty on a granular scale
 
 
-![](image.png)
+![](Pic_readme.png)
 
 
 
